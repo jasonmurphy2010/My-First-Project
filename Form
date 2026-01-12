@@ -1,0 +1,15 @@
+<form>
+<label for="NAME">Your Name</label>
+<input id="NAME" type="text">
+
+<label for="EMAIL">Your Email</label>
+<input id="EMAIL" type="email">
+
+<label for="PASSWORD">Password</label>
+<input id="PASSWORD" type="password">
+
+<label for="MESSAGE">Message</label>
+<textarea rows="4" cols="30"></textarea>
+
+<input type="submit" value="Join Now" />
+</form>
